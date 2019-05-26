@@ -1,0 +1,27 @@
+.container {
+    margin-top: 100px;
+}
+
+#login-container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    padding: 25px;
+}
+
+.input-group-prepend {
+    min-width: 25%;
+}
+
+.input-group-text {
+    min-width: 100%;
+}
+
+#opis {
+	border: solid;
+	border-color: black;
+	border-width: 2px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
